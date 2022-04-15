@@ -1,5 +1,11 @@
 # demo-spring-react-example-v2: dsre-v2
 
+Link for this github repo:
+* <https://github.com/ucsb-cs156-s22/jpa03-D-Jerez>
+
+Heroku is here:
+* Heroku: <https://jpa03-d-jerez.herokuapp.com/>
+
 Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-D-Jerez-docs/>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-D-Jerez-docs-qa/>
